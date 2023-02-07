@@ -2,7 +2,7 @@
 A=int(input())
 B=int(input())
 if(A<=B):
-    for(int i=A;i<=B;i++):
-        print(i)
+   for i in range(a, b + 1):
+    print(i)
 else:
     print("ERROR")
